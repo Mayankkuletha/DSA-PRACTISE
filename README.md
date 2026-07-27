@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0445-add-two-numbers-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0025-reverse-nodes-in-k-group) |
 ## Stack
 |  |
 | ------- |
