@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
