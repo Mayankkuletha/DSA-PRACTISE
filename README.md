@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
