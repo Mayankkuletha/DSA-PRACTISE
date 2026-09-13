@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
