@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
 | [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
