@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0282-expression-add-operators) |
 | [0445-add-two-numbers-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1922-count-good-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
 | ------- |
