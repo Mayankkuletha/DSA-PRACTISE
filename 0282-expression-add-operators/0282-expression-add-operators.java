@@ -1,63 +1,47 @@
 class Solution {
 
-    public List<String> addOperators(String num, int target) {
+    List<String> ans = new ArrayList<>();
+    void solve(String num, int target, int index,String curr, List<String> ans,long value, long res) {
 
-        List<String> ans = new ArrayList<>();
-
-        dfs(num, target, 0, "", 0, 0, ans);
-
-        return ans;
-    }
-
-    public void dfs(String num, int target, int index,
-                    String path, long value, long prev,
-                    List<String> ans) {
-
-        // All digits have been used
+        // Base case
         if (index == num.length()) {
-
             if (value == target) {
-                ans.add(path);
+                ans.add(curr);
             }
-
             return;
         }
 
-        // Try every possible number starting at index
+        String st = "";
+        long curres = 0;
+
         for (int i = index; i < num.length(); i++) {
 
-            // Leading zero is not allowed
+            // Leading zero avoid
             if (i > index && num.charAt(index) == '0') {
                 break;
             }
 
-            String part = num.substring(index, i + 1);
-            long curr = Long.parseLong(part);
+            st += num.charAt(i);
+            curres = curres * 10 + (num.charAt(i) - '0');//string ke digits ko number mein convert
 
-            // First number: no operator before it
+            // First number
             if (index == 0) {
 
-                dfs(num, target, i + 1, part,
-                    curr, curr, ans);
+                solve(num, target, i + 1,st, ans,curres, curres);
 
             } else {
-
-                // Addition
-                dfs(num, target, i + 1,
-                    path + "+" + part,
-                    value + curr, curr, ans);
-
-                // Subtraction
-                dfs(num, target, i + 1,
-                    path + "-" + part,
-                    value - curr, -curr, ans);
-
-                // Multiplication
-                dfs(num, target, i + 1,
-                    path + "*" + part,
-                    value - prev + prev * curr,
-                    prev * curr, ans);
+                // +
+                solve(num, target, i + 1,curr + "+" + st, ans,value + curres,curres);
+                // -
+                solve(num, target, i + 1,curr + "-" + st, ans, value - curres,-curres);
+                // *
+                solve(num, target, i + 1,curr + "*" + st, ans,value - res + (res * curres),res*curres);
             }
         }
+    }
+
+    public List<String> addOperators(String num, int target) {
+        solve(num, target, 0, "", ans, 0, 0);
+        return ans;
     }
 }
