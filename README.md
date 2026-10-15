@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0051-n-queens) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0051-n-queens) |
@@ -139,9 +142,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
