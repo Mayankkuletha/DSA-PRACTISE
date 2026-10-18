@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0131-palindrome-partitioning) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0231-power-of-two) |
