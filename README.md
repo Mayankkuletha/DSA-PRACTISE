@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0860-lemonade-change) |
 | [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
