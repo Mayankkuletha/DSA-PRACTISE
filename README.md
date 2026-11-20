@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
 | [1472-design-browser-history](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mayankkuletha/DSA-PRACTISE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
